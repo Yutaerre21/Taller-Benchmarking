@@ -1,0 +1,2 @@
+stack,users,requests,average_ms,p95_ms,throughput_rps,error_pct,measured_seconds
+Go,150,241125,34.06,88,4019.89,0.0,59.983

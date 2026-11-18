@@ -1,0 +1,8 @@
+{
+    "reached":  true,
+    "criterion":  "Dos incrementos consecutivos: mejora throughput \u003c=5% y crecimiento P95 \u003e=25%",
+    "ramp_seconds":  5,
+    "users":  80,
+    "folder":  "20261117-232004-80-users",
+    "duration_seconds":  30
+}

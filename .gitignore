@@ -1,0 +1,17 @@
+results/**
+!results/.gitkeep
+!results/*/
+!results/*/summary.json
+!results/*/summary.csv
+!results/*/config.json
+!results/*/docker-stats.jsonl
+!results/stress-result.json
+!results/hardware.json
+!results/memory.json
+tools/
+*.exe
+*.zip
+*.log
+__pycache__/
+*.pyc
+.env

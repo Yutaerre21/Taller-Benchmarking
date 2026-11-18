@@ -1,0 +1,8 @@
+{
+    "ramp_seconds":  5,
+    "pool_connections":  20,
+    "payload":  "examples/order.json",
+    "started_utc":  "2026-11-18T04:18:51.5210463Z",
+    "users":  40,
+    "duration_seconds":  30
+}

@@ -1,0 +1,10 @@
+{
+  "stack": "Go",
+  "users": 40,
+  "requests": 124852,
+  "average_ms": 8.6,
+  "p95_ms": 12,
+  "throughput_rps": 4172.58,
+  "error_pct": 0.0,
+  "measured_seconds": 29.922
+}
